@@ -20,3 +20,21 @@ Film z 2022 r.
 KLUCZ U2F - HAKERZY go NIENAWIDZĄ (Yubikey 2FA)
 
 https://www.youtube.com/watch?v=Zr0PffkN09w
+
+Linki:
+
+    Szczegółowy opis standardów FIDO2 implementowanego przez klucze U2F: https://fidoalliance.org/specifications/download/ 
+    
+    Zabezpieczenie managera haseł kluczem U2F: https://keepass.info/help/kb/yubikey.html 
+    
+    Przechowywanie kluczy SSH/GPG na kluczach U2F: https://developers.yubico.com/SSH/ + https://developers.yubico.com/PGP/
+    
+    Logowanie do Windowsa z użyciem klucza U2F:
+
+https://support.yubico.com/hc/en-us/articles/360013708460-Yubico-Login-for-Windows-Configuration-Guide
+
+    Lista serwisów/aplikacji wspierających klucze:
+
+https://www.yubico.com/pl/works-with-yubikey/catalog/?sort=popular
+
+    Jeszcze raz link do naszego sklepiku: https://niebezpiecznik.pl/u2f 
