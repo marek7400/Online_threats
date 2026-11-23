@@ -23,11 +23,15 @@ https://www.youtube.com/watch?v=Zr0PffkN09w
 
 Linki:
 
-    Szczegółowy opis standardów FIDO2 implementowanego przez klucze U2F: https://fidoalliance.org/specifications/download/ 
+    Szczegółowy opis standardów FIDO2 implementowanego przez klucze U2F: 
     
-    Zabezpieczenie managera haseł kluczem U2F: https://keepass.info/help/kb/yubikey.html 
+https://fidoalliance.org/specifications/download/ 
     
-    Przechowywanie kluczy SSH/GPG na kluczach U2F: https://developers.yubico.com/SSH/ + https://developers.yubico.com/PGP/
+    Zabezpieczenie managera haseł kluczem U2F: 
+https://keepass.info/help/kb/yubikey.html 
+    
+    Przechowywanie kluczy SSH/GPG na kluczach U2F: 
+https://developers.yubico.com/SSH/ + https://developers.yubico.com/PGP/
     
     Logowanie do Windowsa z użyciem klucza U2F:
 
@@ -37,4 +41,5 @@ https://support.yubico.com/hc/en-us/articles/360013708460-Yubico-Login-for-Windo
 
 https://www.yubico.com/pl/works-with-yubikey/catalog/?sort=popular
 
-    Jeszcze raz link do naszego sklepiku: https://niebezpiecznik.pl/u2f 
+    Jeszcze raz link do sklepiku: 
+https://niebezpiecznik.pl/u2f 
