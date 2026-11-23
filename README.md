@@ -13,3 +13,10 @@ Informacje o kilku popularnych zagrożeniach przy kopiowaniu tekstu do schowka (
 ## Które 2FA da się obejść? SMS, aplikacja, push i passkey – uwierzytelnianie wieloskładnikowe w liczbach (2026)
 
 https://my127001.pl/ktore-2fa-da-sie-obejsc-sms-aplikacja-push-i-passkey-uwierzytelnianie-wieloskladnikowe-w-liczbach-2026 
+
+
+Film z 2022 r. 
+
+KLUCZ U2F - HAKERZY go NIENAWIDZĄ (Yubikey 2FA)
+
+https://www.youtube.com/watch?v=Zr0PffkN09w
