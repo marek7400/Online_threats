@@ -8,4 +8,8 @@ Informacje o kilku popularnych zagrożeniach przy kopiowaniu tekstu do schowka (
 <br> <br>
 
 <img width="1885" height="843" alt="2" src="https://github.com/user-attachments/assets/18334be4-73d2-4f5b-b680-c810e0e929db" />
+<br> <br>
 
+## Które 2FA da się obejść? SMS, aplikacja, push i passkey – uwierzytelnianie wieloskładnikowe w liczbach (2026)
+
+https://my127001.pl/ktore-2fa-da-sie-obejsc-sms-aplikacja-push-i-passkey-uwierzytelnianie-wieloskladnikowe-w-liczbach-2026 
